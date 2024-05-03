@@ -47,7 +47,7 @@ matplotlib-inline==0.1.6
 mdurl==0.1.2
 nest-asyncio==1.5.8
 numpy==1.26.0
-openai==1.14.3
+openai
 openpyxl==3.1.2
 outcome==1.2.0
 packaging==23.2
